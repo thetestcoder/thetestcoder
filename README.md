@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thetestcoder" alt="thetestcoder" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Flask**
+- 🌱 I’m currently learning AI
 
 - 👨‍💻 All of my projects are available at [https://github.com/thetestcoder](https://github.com/thetestcoder)
 
-- 💬 Ask me about **laravel, vue, nuxtjs, kotlin, bootstrap-vue**
+- 💬 Ask me about **laravel, vue, nuxtjs, kotlin, bootstrap-vue, python, Django, Flask**
 
 - 📫 How to reach me **thetestcoder@gmail.com**
 
