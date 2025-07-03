@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/thetestcoder](https://github.com/thetestcoder)
 
-- 💬 Ask me about **laravel, vue, nuxtjs, kotlin, bootstrap-vue, python, Django, Flask**
+- 💬 Ask me about **laravel, vue, nuxtjs, kotlin, bootstrap-vue, python, Django, Flask, Go, Nodejs**
 
 - 📫 How to reach me **thetestcoder@gmail.com**
 
